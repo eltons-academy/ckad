@@ -1,0 +1,4 @@
+title: Acing CKAD
+markdown: kramdown
+kramdown:
+  parse_block_html: true
